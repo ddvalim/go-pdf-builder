@@ -51,8 +51,6 @@ curl --request POST \
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [gofpdf](https://github.com/jung-kurt/gofpdf/tree/master) - Biblioteca utilizada para criar arquivos PDF
 * [Mux](https://pkg.go.dev/github.com/gorilla/mux) - Request router
 
